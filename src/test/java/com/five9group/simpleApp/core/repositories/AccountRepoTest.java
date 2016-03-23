@@ -20,7 +20,7 @@ public class AccountRepoTest {
 	@Autowired
 	private AccountRepo accountRepo;
 	
-	private Account account;
+	private Account account;  
 	
 @Before	
 @Test
